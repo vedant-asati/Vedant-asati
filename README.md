@@ -22,7 +22,7 @@
 <p align="left">
 <a href="https://dev.to/vedant-asati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vedant-asati" height="30" width="40" /></a>
 <a href="https://twitter.com/vedant_asati_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedant_asati" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vedant asati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant asati" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vedant-asati-ab278a252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant asati" height="30" width="40" /></a>
 <a href="https://medium.com/@vedant-asati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vedant-asati" height="30" width="40" /></a>
 <a href="/https://my-portfolio-mauve-ten-85.vercel.app/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://my-portfolio-mauve-ten-85.vercel.app/" height="30" width="40" /></a>
 </p>
