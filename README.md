@@ -4,11 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/vedant_asati_" target="blank"><img src="https://img.shields.io/twitter/follow/vedant_asati?logo=twitter&style=for-the-badge" alt="vedant_asati" /></a> </p>
 
-- 🔭 I’m currently working on [https://github.com/Vedant-asati/xmtp-chat](https://github.com/Vedant-asati/xmtp-chat)
-
-- 🌱 I’m currently learning **Typescript,Rust**
-
-- 👨‍💻 All of my projects are available at [https://my-portfolio-mauve-ten-85.vercel.app/](https://my-portfolio-mauve-ten-85.vercel.app/)
+- 🌱 I’m currently learning **Rust**
 
 - 📫 How to reach me **vedant.dev.jsr@gmail.com**
 
