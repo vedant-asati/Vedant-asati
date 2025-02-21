@@ -2,7 +2,7 @@
 <h1 align="center">Hi there 👋, I'm Vedant.</h1>
 
 Building in the web3 space.
-- 🌱 Currently building with 🦀
+- 🌱 Currently exploring ⟠
 - 📫 How to reach me: **vedant.dev.jsr@gmail.com**
 - 👯 I’m looking to collaborate with developers and founders
 
