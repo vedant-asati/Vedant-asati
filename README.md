@@ -1,19 +1,24 @@
-<h1 align="center">JSR</h1>
-<h1 align="center">Hi there 👋, I'm Vedant.</h1>
-
-Building in the web3 space.
-- 🌱 Currently exploring ⟠
-- 📫 How to reach me: **vedant.dev.jsr@gmail.com**
-- 👯 I’m looking to collaborate with developers and founders
+<h1 align="center">Hi, I'm Vedant Asati 👋</h1>
 
 <p align="center">
-<h3 align="left">Connect with me:</h3>
-<a href="https://x.com/vedant_asati_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vedant_asati" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/vedant-asati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedant asati" height="30" width="40" /></a>
+Building backend systems, distributed systems, and real-time applications.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+- 🎓 B.Tech. Double Major in Computer Science & Engineering and Chemical Engineering — IIT (ISM) Dhanbad
+- 🛠️ Working with C++, TypeScript, JavaScript, Rust, Node.js, PostgreSQL, Redis, Docker, and Kubernetes
+- 📫 Reach me at **vedant.dev.jsr@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/vedant-asati" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+</p>
+
+<h3 align="left">Languages & Tools:</h3>
+
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,solidity,react,nextjs,nodejs,express,rust"/><br>
-<img src="https://skillicons.dev/icons?i=nodejs,express,ipfs,mongodb,postgres,bash,postman,cpp"/>
+<img src="https://skillicons.dev/icons?i=cpp,c,js,ts,rust,nodejs,express,react,nextjs"/><br>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,docker,kubernetes,linux,git"/>
 </p>
